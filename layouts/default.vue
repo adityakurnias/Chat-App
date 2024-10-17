@@ -1,6 +1,8 @@
 <template>
-  <div>
-    
+  <div class="d-flex">
+    <Sidebar />
+    <ChatArea />
+    <RightSidebar />
   </div>
 </template>
 
